@@ -56,7 +56,7 @@ pip install psutil
 ## Usage
 
 ```bash
-python RAM_monitor.py
+python RAM-monitor.py
 ```
 
 To stop the monitor, press `Ctrl+C`. A goodbye message will be displayed before exiting.
