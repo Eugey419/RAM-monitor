@@ -74,7 +74,7 @@ while running :
             print(f"{color_orange}Author : https://github.com/MultiRight{color_reset}")
 
             
-            sys.exit(0)
+            break
 
     elif 60 <= percent_ram < 80 :
         try :
@@ -101,7 +101,7 @@ while running :
             print(f"{color_orange}Thank you for using PyGeoterm!{color_reset}")
             print(f"{color_orange}Author : https://github.com/MultiRight{color_reset}")
 
-            sys.exit(0)
+            break
 
     else :
         try :
@@ -129,5 +129,5 @@ while running :
             print(f"{color_orange}Thank you for using PyGeoterm!{color_reset}")
             print(f"{color_orange}Author : https://github.com/MultiRight{color_reset}")
 
-            sys.exit(0)
+            break
 
